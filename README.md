@@ -1,4 +1,4 @@
-## Seja muito bem vindo
+## Seja muito bem vindo, me chamo Pedro.
 
 - Buscando oportunidades em Backend
   
