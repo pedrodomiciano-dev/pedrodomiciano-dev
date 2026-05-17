@@ -1,8 +1,10 @@
-## Seja muito bem vindo, me chamo Pedro.
+## Seja muito bem vindo, o meu nome é Pedro.
 
-- Buscando oportunidades em Backend
+- Um rapaz interessado em tecnologia, buscando aprender para se tornar um bom profissional na área da qual estou focando. 
+
+- Buscando oportunidades em Backend.
   
-- Estudando e apredendo desde de Doker, C#, APIs, SQL, entre outras tecnologias que possam me ajudar a melhorar em Backend
+- Estudando e apredendo desde de Doker, C#, APIs, SQL, entre outras tecnologias que possam me ajudar a melhorar em Backend.
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Csharp" height="40" width="50"
