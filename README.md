@@ -1,6 +1,6 @@
 ## Seja muito bem vindo, o meu nome é Pedro.
 
-- Um rapaz interessado em tecnologia, buscando aprender para se tornar um bom profissional na área da qual estou focando. 
+- Um rapaz interessado em tecnologia, buscando aprender para se tornar um bom profissional na área da qual estou focando.
 
 - Buscando oportunidades em Backend.
   
