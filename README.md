@@ -15,6 +15,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.s
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="center" alt="MongoDB" height="40" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="SQL Server" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 </div>
